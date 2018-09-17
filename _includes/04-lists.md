@@ -2,12 +2,17 @@ Replace this with a list of your favorite things.
 add emovi:
 
 :tea:
+
 :heart:
-:postoffice:
+
+:office:
+
 :school:
-:university:
 
 :smile:
+
+:coffee:
+
 
 1. apple
 2. egg
